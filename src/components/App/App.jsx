@@ -10,7 +10,7 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      React homework template
+      <img src="https://kinsta.com/wp-content/uploads/2022/06/what-is-react-js-feature-image.png" alt="React"></img>
     </div>
   );
 };
